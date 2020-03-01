@@ -1,4 +1,4 @@
-# Homework Assignment - The Power of Plots
+# The Power of Plots
 
 ## Pyber - Requirements
 
